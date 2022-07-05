@@ -7,7 +7,7 @@
 // Ambiguous reference in cref attribute
 #pragma warning disable 419
 
-namespace SqlParser.ClickHouse.Antlr4File2
+namespace SqlParser.ClickHouse
 {
     using Antlr4.Runtime;
     using Antlr4.Runtime.Atn;
