@@ -1,5 +1,6 @@
 using Antlr4.Runtime;
 using Antlr4.Runtime.Misc;
+using SqlParser.ClickHouse;
 using SqlParser.ClickHouse.Antlr4File2;
 
 namespace SqlParser.Test
